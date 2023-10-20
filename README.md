@@ -46,4 +46,4 @@ python car_game.py
 ## Acknowledgments
 This game was developed as part of a programming project using Pygame. Special thanks to the Pygame community for providing a fun and educational environment for game development.
 
-Enjoy the game!
+**Enjoy the game!**
